@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+
+# VSCode
+.vscode/
+
+# Data and outputs (do NOT commit raw logs)
+Data/
+captured_data/
+*.csv
+*.log
+
+# Power BI (option: if pbix large, ignore or handle separately)
+*.pbix
+*.pbit
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
