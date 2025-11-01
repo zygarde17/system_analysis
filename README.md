@@ -38,6 +38,15 @@ This dashboard project collects system metrics (CPU, RAM, Disk, per-process CPU/
 
 &nbsp;  pip install -r requirements.txt
 
+## 📊 Live Dashboard Preview
+
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYTQ1MGFmYWQtOTFmZi00NDFlLTkxMjQtYThjYTI5MWVjZDBiIiwidCI6IjJmYzg3NDI5LWI0YWItNDVlYi04Yzc1LTA0YjM5MzkzNjg0OSJ9">
+    <img src="docs/dashboard_screenshot.png" alt="Live Dashboard" width="800">
+  </a>
+</p>
+
+live dashboard.
 
 
 ## 📊 Power BI Dashboard Preview
