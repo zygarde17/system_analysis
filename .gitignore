@@ -14,12 +14,12 @@ venv/
 # Data and outputs (do NOT commit raw logs)
 Data/
 captured_data/
-*.csv
+#*.csv
 *.log
 
 # Power BI (option: if pbix large, ignore or handle separately)
-*.pbix
-*.pbit
+#*.pbix
+#*.pbit
 
 # OS
 Thumbs.db
