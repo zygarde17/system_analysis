@@ -40,6 +40,13 @@ This dashboard project collects system metrics (CPU, RAM, Disk, per-process CPU/
 
 
 
+## 📊 Power BI Dashboard Preview
+
+Here’s a glimpse of the **System Resource Utilization Dashboard** built using Power BI:
+
+
+<img width="1437" height="809" alt="Report" src="https://github.com/user-attachments/assets/f3f5d51a-2832-4b6b-a879-c3a41477879d" />
+
 
 
 
